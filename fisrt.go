@@ -3,9 +3,9 @@
 
 package main // Referência do arquivo dentro da main. Necessário para tornar o arquivo executável.
 
-import ( // Lista de imports. Referência dos pacotes.
+import (
 	"fmt"
-)
+) // Lista de imports. Referência dos pacotes.
 
 func main() {
 	fmt.Println("Hello World") // Função main. Necessário para tornar o arquivo executável.
